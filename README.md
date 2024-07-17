@@ -1,7 +1,7 @@
 # Hello👋 I am Thrivanesar U
 
 ## Profile
-I am Thrivanesar U., a passionate and driven individual with a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. My enthusiasm for AI and machine learning is matched by my fascination with various frameworks and tools in the IT field and other emerging technologies.
+I am Thrivanesar U, a passionate and driven individual with a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. My enthusiasm for AI and machine learning is matched by my fascination with various frameworks and tools in the IT field and other emerging technologies.
 
 ## Education
 - **B.Tech in Computer Science and Engineering**
