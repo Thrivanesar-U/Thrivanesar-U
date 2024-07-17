@@ -11,18 +11,15 @@ I am Thrivanesar U, a passionate and driven individual with a B.Tech in Computer
 - Artificial Intelligence
 - Machine Learning
 - Natural Language Processing (NLP)
-- Web Development Frameworks (Express, Node.js, React)
-- Mobile Development Frameworks (Flutter)
-- Other IT technologies and tools
+- Web Development Frameworks (Express, Node.js)
+
 
 ## Skills
 - **Programming Languages**: Proficient in Python, JavaScript, and other relevant languages.
 - **Frameworks & Tools**:
-  - **Web Development**: Express, Node.js, React
-  - **Mobile Development**: Flutter
+  - **Web Development**: Express, Node.js
   - **Machine Learning & AI**: TensorFlow, PyTorch, scikit-learn
   - **NLP**: NLTK, spaCy
-- **Other Technologies**: Familiar with various other IT tools and technologies.
 
 
 ## Contact
